@@ -22,8 +22,6 @@ into three species using their physical measurements.
 
 Kaggle Notebook: https://www.kaggle.com/code/mr1rameez/iris-flower-classification-by-knn-decision-tree
 
-According to it: 
-
 # Data Storytelling: Why These Steps Were Chosen
 ## 🔍 Understanding the Problem
 
@@ -80,3 +78,4 @@ This step-by-step approach — from data understanding to visualization, modelin
 ## 🚀 Final Takeaway
 
 This project demonstrates that strong results are achieved not by complex models, but by choosing the right steps, understanding the data, and applying simple algorithms effectively.
+
