@@ -2,6 +2,8 @@
 
 This project provides a data-driven analysis of India's unemployment trends, with a primary focus on the unprecedented economic shift caused by the COVID-19 pandemic. Using Python and historical datasets, we explore how different regions and sectors reacted to the nationwide lockdowns.
 
+Full Code on Kaggle: https://www.kaggle.com/code/mr1rameez/unemployment-analysis-of-india-covid-19?scriptVersionId=290373909
+
 ## 🚀 Overview
 The analysis covers the period leading up to and during the first wave of COVID-19. By cleaning and visualizing monthly labor statistics, we aim to identify the depth of the employment crisis and the subsequent recovery patterns.
 
