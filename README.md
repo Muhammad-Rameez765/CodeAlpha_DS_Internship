@@ -1,4 +1,4 @@
-## 🎓 CodeAlpha Data Science Internship
+# 🎓 CodeAlpha Data Science Internship
 This repository contains the projects and tasks completed during my 1-month Data Science Internship at CodeAlpha. 
 The internship focused on practical applications of Python, Machine Learning, and Data Analysis.
 
@@ -6,7 +6,7 @@ The internship focused on practical applications of Python, Machine Learning, an
 Each folder contains the dataset, Jupyter Notebook, and specific documentation for the respective task.
 
 ## 🚀 Tasks Overview
-1. Sales Prediction using Python (Task 4)
+### 1. Sales Prediction using Python (Task 4)
 Goal: Predict product sales based on advertising budgets (TV, Radio, Newspaper).
 
 Key Techniques: Linear Regression, Correlation Analysis, Feature Selection.
@@ -16,7 +16,7 @@ Outcome: Achieved a 90% R-squared score, identifying Radio as the most efficient
 Status: ✅ Completed
 
 
-## 2. Titanic Classification (Task 1)
+### 2. Titanic Classification (Task 1)
 Goal: Build a system to predict whether a passenger survived the Titanic disaster.
 
 Key Techniques: Data Imputation, Handling Categorical Variables, Random Forest/Logistic Regression.
@@ -26,7 +26,7 @@ Outcome: Successfully mapped passenger demographics (age, class, gender) to surv
 Status: ✅ Completed
 
 
-## 3. Stock Price Prediction (Task 2)
+### 3. Stock Price Prediction (Task 2)
 Goal: Forecast future stock prices using historical market data.
 
 Key Techniques: Time Series Analysis, Moving Averages, LSTM or Linear Regression.
@@ -36,7 +36,7 @@ Outcome: Developed a model to visualize market trends and predict price movement
 Status: ✅ Completed
 
 
-## 4. Credit Card Fraud Detection (Task 3)
+### 4. Credit Card Fraud Detection (Task 3)
 Goal: Identify fraudulent credit card transactions to protect customers from unauthorized charges.
 
 Key Techniques: Handling Imbalanced Data (SMOTE), Precision-Recall Curves, Random Forest Classifier.
