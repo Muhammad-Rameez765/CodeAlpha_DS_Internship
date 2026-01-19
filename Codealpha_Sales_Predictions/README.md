@@ -2,6 +2,7 @@
 
 Data: Advertising.csv
 Author: Muhammad Rameez
+Kaggle: https://www.kaggle.com/code/mr1rameez/marketing-roi-through-sales-prediction
 
 ## 📋 Project Description
 This project focuses on predicting product sales based on advertising budgets spent on three different channels: TV, Radio, and Newspaper. Using Machine Learning (Linear Regression), we analyze which medium is most effective and provide a model to forecast sales for future marketing campaigns.
